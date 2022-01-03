@@ -1,0 +1,17 @@
+html {
+  background-color: black;
+  color: white;
+}
+
+.mainContainer {
+  padding: 3% 10%;
+}
+
+.quoteContainer {
+  padding: 7% 7%;
+  font-family: sans-serif;
+}
+
+.quotes {
+  padding: 2% 4%;
+}
